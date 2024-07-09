@@ -1,7 +1,7 @@
 # C Programming - A Modern Approach (2nd Edition) Solutions
 
 Welcome to the repository containing my solutions to the exercises in "C Programming: A Modern Approach" (2nd Edition) by K. N. King. 
-This book is an excellent resource for learning the C programming language, and this repository is aimed at helping fellow learners by providing well-documented solutions to the exercises :)
+This book is an excellent resource for learning the C programming language, and this repository is aimed at helping fellow learners by providing solutions to all the exercises, rather than just even ones :)
 
 ## Issues
 
