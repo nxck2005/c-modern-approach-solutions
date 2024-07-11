@@ -5,6 +5,7 @@ This book is an excellent resource for learning the C programming language, and 
 
 ## Issues
 
+This repository is still a work in progress!
 If you encounter any issues with the solutions or have suggestions for improvements, please open an issue in the repository.
 
 ## I want to contribute answers!
