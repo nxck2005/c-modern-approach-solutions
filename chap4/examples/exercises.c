@@ -1,3 +1,5 @@
+// Ignore this file.
+
 #include <stdio.h>
 
 int main(void)
