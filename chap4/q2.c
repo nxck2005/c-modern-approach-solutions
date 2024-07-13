@@ -4,7 +4,7 @@ int main(void)
 {
     int originalNumber, onesPlace, tensPlace, hundredsPlace, tensAndOnes, reversedNumber;
 
-    printf("Enter a two-digit number: ");
+    printf("Enter a three-digit number: ");
     scanf("%d", &originalNumber);
 
     /* If the number is xyz, considering x, y and z are the seperate digits,
