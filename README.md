@@ -22,3 +22,5 @@ Thank you for taking the time to contribute!
 ## Acknowledgements
 
 Thanks to K. N. King for writing an excellent book on C programming!
+
+- Nick 
